@@ -1,4 +1,3 @@
-
 public class Search {
 
     static int search(int arr[],int n,int x){
